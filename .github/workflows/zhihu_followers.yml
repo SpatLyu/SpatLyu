@@ -1,9 +1,9 @@
 name: Update Zhihu Follower Badge
 
 on:
-  schedule:
-    # 每天 UTC 时间00:00 运行
-    - cron: '0 0 * * *'
+  # schedule:
+  #   # 每天 UTC 时间00:00 运行
+  #   - cron: '0 0 * * *'
   workflow_dispatch:
     # 手动触发
 
@@ -38,6 +38,6 @@ jobs:
         git commit -m "Update Zhihu Follower Badge"
     - name: Push changes
       env:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.dell-key }}
       run: |
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/SpatLyu/SpatLyu.git
+        git push https://${{ secrets.dell-key }}@github.com/SpatLyu/SpatLyu.git

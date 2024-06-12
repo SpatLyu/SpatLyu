@@ -9,7 +9,7 @@
 
 ## Hi there 👋
 
-### I'm Wenbo Lv
+### I'm Wenbo Lv, I'm a relatively dedicated boy who loves programming and open source!
 -------
   
 ## 🧐 About

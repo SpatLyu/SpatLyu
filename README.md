@@ -1,7 +1,5 @@
 <h1 align="center">Wenbo Lv</h1>
 
----
-
 [![GitHub followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
 [![Profile Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
 [![Gmail Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)
@@ -21,7 +19,7 @@
 - 🌱 My motto in life is to grow as you learn!
 - 👯 And Many More...
 
-# <img src="https://github.com/SpatLyu/SpatLyu/blob/master/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SpatLyu/SpatLyu/blob/master/Earth.gif" width="24px">
+# <img src="https://github.com/SpatLyu/SpatLyu/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SpatLyu/SpatLyu/blob/main/Earth.gif" width="24px">
 
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: message me at [**Zhihu**](https://www.zhihu.com/people/lyu-geosocial)!

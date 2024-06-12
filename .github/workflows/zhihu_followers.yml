@@ -40,4 +40,4 @@ jobs:
       env:
         github_token: ${{ secrets.dell-key }}
       run: |
-        git push https://${{ secrets.dell-key }}@github.com/SpatLyu/SpatLyu.git
+        git push

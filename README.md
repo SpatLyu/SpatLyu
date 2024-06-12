@@ -4,6 +4,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
 [![Medium Badge](https://img.shields.io/badge/@lyu-spatstat-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@lyu-spatstat)](https://medium.com/@lyu-spatstat)
 [![Gmail Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)
+[![ZhiHu Badge](https://img.shields.io/badge/3843-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
 [![R Universe](https://spatlyu.r-universe.dev/badges/:total)](https://spatlyu.r-universe.dev/)
 
 ## Hi there 👋

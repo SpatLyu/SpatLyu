@@ -3,6 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
 [![Profile Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
 [![Gmail Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/@lyu-spatstat-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@lyu-spatstat)](https://medium.com/@lyu-spatstat)
 
 ## Hi there 👋
 

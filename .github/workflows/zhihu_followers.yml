@@ -23,16 +23,21 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-    # 获取知乎的 follower 数量并生成 badge
     - name: Generate Zhihu Follower Badge
       run: python src/generate_zhihu_badge.py
       env:
-        ZHIHU_USERNAME: kong-zhong-ji-qi-ren-qian-yan
+        ZHIHU_USERNAME: lyu-geosocial
       
-    - name: Commit and push if changed
+    - name: Set up Git
       run: |
         git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add -A
-        git commit -m "Update Zhihu Follower Badge" -a || exit 0 # 如果没有变更则退出
-        git push
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+    - name: Commit changes
+      run: |
+        git add .
+        git commit -m "Update Zhihu Follower Badge"
+    - name: Push changes
+      env:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/SpatLyu/SpatLyu.git

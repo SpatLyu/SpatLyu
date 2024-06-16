@@ -1,7 +1,7 @@
 <h1 align="center">Wenbo Lv</h1>
 
 [![GitHub followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
-[![ZhiHu Badge](https://img.shields.io/badge/1031-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
+[![ZhiHu Badge](https://img.shields.io/badge/1032-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
 [![Profile Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
 [![Medium Badge](https://img.shields.io/badge/@lyu-spatstat-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@lyu-spatstat)](https://medium.com/@lyu-spatstat)
 [![Gmail Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)

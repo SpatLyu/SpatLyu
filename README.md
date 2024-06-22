@@ -8,13 +8,11 @@ followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=so
 Badge](https://img.shields.io/badge/1039-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
 [![Profile
 Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
-[![R
-Universe](https://spatlyu.r-universe.dev/badges/:total)](https://spatlyu.r-universe.dev/)
 [![Gmail
 Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)
 [![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://spatlyu.github.io/posts/posts-picture/lyu_spatstat-wechat.jpg)
 
-[![](https://img.shields.io/badge/buy%20me%20a-Coffee-purple.svg)](https://spatlyu.github.io/posts/posts-picture/alipay.jpg)
+[![](https://img.shields.io/badge/buy%20me%20a-Coffee-brown.svg)](https://spatlyu.github.io/posts/posts-picture/alipay.jpg)
 
 ## Hi there 👋
 

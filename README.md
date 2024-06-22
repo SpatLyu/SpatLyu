@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-### I’m Wenbo Lv, I’m a relatively dedicated boy who loves programming and open source!
+## I’m Wenbo Lv, I’m a relatively dedicated boy who loves programming and open source!
 
 [![GitHub
 followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)

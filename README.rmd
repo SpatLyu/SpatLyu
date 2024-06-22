@@ -5,8 +5,6 @@ output:
 html_preview: false
 ---
 
-<h1 align="center">Wenbo Lv</h1>
-
 [![GitHub followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
 [![ZhiHu Badge](https://img.shields.io/badge/1039-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
 [![Profile Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
@@ -17,7 +15,6 @@ html_preview: false
 ## Hi there 👋
 
 ### I'm Wenbo Lv, I'm a relatively dedicated boy who loves programming and open source!
--------
   
 ## 🧐 About
 

@@ -13,8 +13,8 @@ html_preview: false
 [![Medium Badge](https://img.shields.io/badge/@lyu-spatstat-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@lyu-spatstat)](https://medium.com/@lyu-spatstat)
 [![Gmail Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)
 `r badger::badge_custom("follow me on", "WeChat", "green", "https://spatlyu.github.io/posts/posts-picture/lyu_spatstat-wechat.jpg")`
+
 `r badger::badge_custom("buy me a", "Coffee", "#e962a5", "https://spatlyu.github.io/posts/posts-picture/alipay.jpg")`
-[![R Universe](https://spatlyu.r-universe.dev/badges/:total)](https://spatlyu.r-universe.dev/)
 
 ## Hi there 👋
 

@@ -13,9 +13,8 @@ Badge](https://img.shields.io/badge/@lyu-spatstat-03a57a?style=flat-square&label
 [![Gmail
 Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)
 [![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://spatlyu.github.io/posts/posts-picture/lyu_spatstat-wechat.jpg)
+
 [![](https://img.shields.io/badge/buy%20me%20a-Coffee-#e962a5.svg)](https://spatlyu.github.io/posts/posts-picture/alipay.jpg)
-[![R
-Universe](https://spatlyu.r-universe.dev/badges/:total)](https://spatlyu.r-universe.dev/)
 
 ## Hi there 👋
 

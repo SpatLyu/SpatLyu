@@ -1,3 +1,7 @@
+## Hi there 👋
+
+### I’m Wenbo Lv, I’m a relatively dedicated boy who loves programming and open source!
+
 [![GitHub
 followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
 [![ZhiHu
@@ -8,10 +12,6 @@ Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=4
 [![Gmail
 Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)
 [![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://spatlyu.github.io/posts/posts-picture/lyu_spatstat-wechat.jpg)
-
-## Hi there 👋
-
-### I’m Wenbo Lv, I’m a relatively dedicated boy who loves programming and open source!
 
 ## 🧐 About
 

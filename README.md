@@ -5,7 +5,7 @@
 [![GitHub
 followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
 [![ZhiHu
-Badge](https://img.shields.io/badge/1075-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
+Badge](https://img.shields.io/badge/1081-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
 [![](https://img.shields.io/badge/buy%20me%20a-Coffee-purple.svg)](https://spatlyu.github.io/posts/posts-picture/alipay.jpg)
 [![Gmail
 Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)

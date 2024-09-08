@@ -7,7 +7,7 @@ html_preview: false
 
 # Hi there 👋
 
-## I'm Wenbo Lv, a relatively dedicated boy who love programming and open source!
+## I'm Wenbo Lv, a relatively dedicated boy who loves programming and open source!
 
 [![GitHub followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
 [![ZhiHu Badge](https://img.shields.io/badge/1102-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
@@ -20,7 +20,7 @@ html_preview: false
 
 - 🔭 I am currently an undergraduate majoring in Geographic Information Science(GIS) at Shaanxi Normal University(SNNU).
 - 😄 I look forward to working with friends of all backgrounds to explore the fun of statistics and programming!
-- 🏄‍ My research interests focus on developing new spatial analysis methods based on spatial relationships (such as spatial dependence, spatial heterogeneity, geographical similarity) to support urban sustainability and climate change, also include developing the corresponding open source software.
+- 🏄‍ My research interests focus on developing new spatial analysis methods based on spatial relationships (such as spatial dependence, spatial heterogeneity, and geographical similarity) to support urban sustainability and climate change mitigation, and also include developing the corresponding open source software.
 - 🌱 My motto in life is to grow as you learn!
 - 👯 And Many More...
 

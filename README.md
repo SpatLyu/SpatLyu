@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I’m Wenbo Lv, a relatively dedicated boy who love programming and open source!
+## I’m Wenbo Lv, a relatively dedicated boy who loves programming and open source!
 
 [![GitHub
 followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
@@ -21,9 +21,9 @@ Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=4
   explore the fun of statistics and programming!
 - 🏄‍ My research interests focus on developing new spatial analysis
   methods based on spatial relationships (such as spatial dependence,
-  spatial heterogeneity, geographical similarity) to support urban
-  sustainability and climate change, also include developing the
-  corresponding open source software.
+  spatial heterogeneity, and geographical similarity) to support urban
+  sustainability and climate change mitigation, and also include
+  developing the corresponding open source software.
 - 🌱 My motto in life is to grow as you learn!
 - 👯 And Many More…
 

@@ -34,6 +34,27 @@ src="./logos/purrr.png"                 width="50px"/></a>
 <a href="https://github.com/r-tmap/tmap"           ><img 
 src="./logos/tmap.png"                  width="50px"/></a>
 </p>
+I authored and maintain these R packages:
+<p align="left">
+<a href="https://github.com/ausgis/gdverse"      ><img 
+src="./logos/gdverse.png"               width="50px"/></a>
+<a href="https://github.com/ausgis/geocomplexity"><img 
+src="./logos/geocomplexity.png"         width="50px"/></a>
+<a href="https://github.com/stscl/sdsfun"        ><img 
+src="./logos/sdsfun.png"                width="50px"/></a>
+<a href="https://github.com/stscl/geocn"           ><img 
+src="./logos/geocn.png"                 width="50px"/></a>
+<a href="https://github.com/stscl/sptorch"         ><img 
+src="./logos/sptorch.png"               width="50px"/></a>
+<a href="https://github.com/stscl/arcR"            ><img 
+src="./logos/arcR.png"                  width="50px"/></a>
+<a href="https://github.com/SpatLyu/spEcula"       ><img 
+src="./logos/spEcula.png"               width="50px"/></a>
+<a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 
+src="./logos/tidyrgeoda.png"            width="50px"/></a>
+<a href="https://github.com/tidyverse/purrr"       ><img 
+src="./logos/purrr.png"                 width="50px"/></a>
+</p>
 
 ## 🧐 About
 

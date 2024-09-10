@@ -16,30 +16,26 @@ html_preview: false
 `r badger::badge_custom("follow me on", "WeChat", "green", "https://spatlyu.github.io/posts/posts-picture/lyu_spatstat-wechat.jpg")`
 [![Profile Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
 
-I use these: 
+I use these R packages a lot: 
 <p align="left"> 
     <a href="https://github.com/RcppCore/Rcpp"       ><img 
-src="./logos/Rcpp.png"                  width="50px"/></a>
+src="./logos/Rcpp.png"                  width="55px"/></a>
     <a href="https://github.com/r-spatial/sf"        ><img 
 src="./logos/sf.png"                    width="50px"/></a>
     <a href="https://github.com/rspatial/terra"      ><img 
 src="./logos/terra.jpg"                 width="50px"/></a>
   <a href="https://github.com/tidyverse/dplyr"       ><img 
 src="./logos/dplyr.png"                 width="50px"/></a>
-  <a href="https://github.com/rstudio/rmarkdown"     ><img 
-src="./logos/rmarkdown.png"             width="50px"/></a>
   <a href="https://github.com/tidyverse/ggplot2"     ><img 
 src="./logos/ggplot2.png"               width="50px"/></a>
   <a href="https://github.com/tidyverse/tibble"      ><img 
 src="./logos/tibble.png"                width="50px"/></a>
+  <a href="https://github.com/rstudio/rmarkdown"     ><img 
+src="./logos/rmarkdown.png"             width="50px"/></a>
   <a href="https://github.com/tidyverse/purrr"       ><img 
 src="./logos/purrr.png"                 width="50px"/></a>
   <a href="https://github.com/r-tmap/tmap"           ><img 
 src="./logos/tmap.png"                  width="50px"/></a>
-  <a href="https://github.com/r-spatial/rgee"        ><img 
-src="./logos/rgee.png"                  width="50px"/></a>
-  <a href="https://github.com/r-spatial/qgisprocess" ><img 
-src="./logos/qgisprocess.png"                  width="50px"/></a>
 </p>
   
 ## 🧐 About

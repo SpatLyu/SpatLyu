@@ -14,6 +14,7 @@ Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-s
 Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
 
 I use these R packages a lot:
+
 <p align="left">
 <a href="https://github.com/RcppCore/Rcpp"       ><img 
 src="./logos/Rcpp.png"                  width="50px"/></a>
@@ -34,7 +35,9 @@ src="./logos/purrr.png"                 width="50px"/></a>
 <a href="https://github.com/r-tmap/tmap"           ><img 
 src="./logos/tmap.png"                  width="50px"/></a>
 </p>
+
 I authored and maintain these R packages:
+
 <p align="left">
 <a href="https://github.com/ausgis/gdverse"      ><img 
 src="./logos/gdverse.png"               width="50px"/></a>

@@ -16,7 +16,7 @@ Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=4
 I use these R packages a lot:
 <p align="left">
 <a href="https://github.com/RcppCore/Rcpp"       ><img 
-src="./logos/Rcpp.png"                width="56.5px"/></a>
+src="./logos/Rcpp.png"                  width="50px"/></a>
 <a href="https://github.com/r-spatial/sf"        ><img 
 src="./logos/sf.png"                    width="50px"/></a>
 <a href="https://github.com/rspatial/terra"      ><img 

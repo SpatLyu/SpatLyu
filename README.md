@@ -52,8 +52,6 @@ src="./logos/arcR.png"                  width="50px"/></a>
 src="./logos/spEcula.png"               width="50px"/></a>
 <a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 
 src="./logos/tidyrgeoda.png"            width="50px"/></a>
-<a href="https://github.com/tidyverse/purrr"       ><img 
-src="./logos/purrr.png"                 width="50px"/></a>
 </p>
 
 ## 🧐 About

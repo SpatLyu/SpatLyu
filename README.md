@@ -77,7 +77,8 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
 
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: message me at
-  [**Zhihu**](https://www.zhihu.com/people/lyu-geosocial)!
+  [**zhihu**](https://www.zhihu.com/people/lyu-geosocial) and
+  [**mastodon**](https://mastodon.social/@SpatLyu)!
 - ⚡ Fun fact: I love coding, reading, thinking and eating delicious
   food.
 - 💬 Ping Me about \#Geoinformatics, \#Statistics, \#R, \#C++, \#Python

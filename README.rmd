@@ -50,6 +50,8 @@ src="./logos/geocomplexity.png"         width="50px"/></a>
 src="./logos/dnipm.png"                 width="50px"/></a>
     <a href="https://github.com/stscl/sdsfun"        ><img 
 src="./logos/sdsfun.png"                width="50px"/></a>
+    <a href="https://github.com/stscl/esp"           ><img 
+src="./logos/esp.png"                width="50px"/></a>
   <a href="https://github.com/stscl/geocn"           ><img 
 src="./logos/geocn.png"                 width="50px"/></a>
   <a href="https://github.com/stscl/sptorch"         ><img 

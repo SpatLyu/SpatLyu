@@ -28,10 +28,12 @@ src="./logos/dplyr.png"                 width="50px"/></a>
 src="./logos/ggplot2.png"               width="50px"/></a>
 <a href="https://github.com/tidyverse/tibble"      ><img 
 src="./logos/tibble.png"                width="50px"/></a>
-<a href="https://github.com/rstudio/rmarkdown"     ><img 
-src="./logos/rmarkdown.png"             width="50px"/></a>
 <a href="https://github.com/tidyverse/purrr"       ><img 
 src="./logos/purrr.png"                 width="50px"/></a>
+<a href="https://github.com/r-lib/devtools"        ><img 
+src="./logos/devtools.png"              width="50px"/></a>
+<a href="https://github.com/rstudio/rmarkdown"     ><img 
+src="./logos/rmarkdown.png"             width="50px"/></a>
 <a href="https://github.com/r-tmap/tmap"           ><img 
 src="./logos/tmap.png"                  width="50px"/></a>
 </p>

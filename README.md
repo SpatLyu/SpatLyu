@@ -91,7 +91,7 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
   [*mastodon*](https://mastodon.social/@SpatLyu)!
 - ⚡ Fun fact: I love coding, reading, thinking and eating delicious
   food.
-- 💬 Ping Me about \#Geoinformatics, \#Statistics, \#R, \#C++, \#Python
+- 💬 Ping me about \#Geoinformatics, \#Statistics, \#R, \#C++, \#Python
   and anything you like!
 
 <figure>

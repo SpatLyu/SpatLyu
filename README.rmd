@@ -48,14 +48,14 @@ src="./logos/usethis.png"               width="50px"/></a>
 I authored and maintain these R packages:
 
 <p align="left"> 
-    <a href="https://github.com/ausgis/gdverse"      ><img 
-src="./logos/gdverse.png"               width="50px"/></a>
     <a href="https://github.com/ausgis/geocomplexity"><img 
 src="./logos/geocomplexity.png"         width="50px"/></a>
     <a href="https://github.com/ausgis/dnipm"        ><img 
 src="./logos/dnipm.png"                 width="50px"/></a>
     <a href="https://github.com/stscl/sdsfun"        ><img 
 src="./logos/sdsfun.png"                width="50px"/></a>
+    <a href="https://github.com/stscl/gdverse"       ><img 
+src="./logos/gdverse.png"               width="50px"/></a>
     <a href="https://github.com/stscl/esp"           ><img 
 src="./logos/esp.png"                   width="50px"/></a>
     <a href="https://github.com/stscl/spEDM"         ><img 

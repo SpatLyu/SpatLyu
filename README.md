@@ -26,8 +26,6 @@ src="./logos/ggplot2.png"               width="50px"/></a>
 src="./logos/sf.png"                    width="50px"/></a>
 <a href="https://github.com/rspatial/terra"      ><img 
 src="./logos/terra.png"                 width="50px"/></a>
-<a href="https://github.com/r-spatial/rgee"      ><img 
-src="./logos/rgee.png"                  width="50px"/></a>
 <a href="https://github.com/r-lib/rlang"           ><img 
 src="./logos/rlang.png"                 width="50px"/></a>
 <a href="https://github.com/tidyverse/tibble"      ><img 
@@ -40,6 +38,8 @@ src="./logos/purrr.png"                 width="50px"/></a>
 src="./logos/devtools.png"              width="50px"/></a>
 <a href="https://github.com/r-lib/usethis"         ><img 
 src="./logos/usethis.png"               width="50px"/></a>
+<a href="https://github.com/r-spatial/rgee"      ><img 
+src="./logos/rgee.png"                  width="50px"/></a>
 <!--   <a href="https://github.com/r-tmap/tmap"           ><img  -->
 <!-- src="./logos/tmap.png"                  width="50px"/></a> -->
 </p>

@@ -21,16 +21,18 @@ I use these R packages a lot:
 <p align="left"> 
     <a href="https://github.com/RcppCore/Rcpp"       ><img 
 src="./logos/Rcpp.png"                  width="50px"/></a>
-    <a href="https://github.com/r-spatial/sf"        ><img 
-src="./logos/sf.png"                    width="50px"/></a>
-    <a href="https://github.com/rspatial/terra"      ><img 
-src="./logos/terra.png"                 width="50px"/></a>
-  <a href="https://github.com/r-lib/rlang"           ><img 
-src="./logos/rlang.png"                 width="50px"/></a>
   <a href="https://github.com/tidyverse/dplyr"       ><img 
 src="./logos/dplyr.png"                 width="50px"/></a>
   <a href="https://github.com/tidyverse/ggplot2"     ><img 
 src="./logos/ggplot2.png"               width="50px"/></a>
+    <a href="https://github.com/r-spatial/sf"        ><img 
+src="./logos/sf.png"                    width="50px"/></a>
+    <a href="https://github.com/rspatial/terra"      ><img 
+src="./logos/terra.png"                 width="50px"/></a>
+    <a href="https://github.com/r-spatial/rgee"      ><img 
+src="./logos/rgee.png"                  width="50px"/></a>
+  <a href="https://github.com/r-lib/rlang"           ><img 
+src="./logos/rlang.png"                 width="50px"/></a>
   <a href="https://github.com/tidyverse/tibble"      ><img 
 src="./logos/tibble.png"                width="50px"/></a>
   <a href="https://github.com/rstudio/rmarkdown"     ><img 

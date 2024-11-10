@@ -10,7 +10,7 @@ html_preview: false
 ## I'm Wenbo Lv, a relatively dedicated boy who loves programming and open source!
 
 [![GitHub followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
-[![ZhiHu Badge](https://img.shields.io/badge/1149-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
+[![ZhiHu Badge](https://img.shields.io/badge/1151-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
 `r badger::badge_custom("buy me a", "Coffee", "purple", "https://spatlyu.github.io/posts/posts-picture/alipay.jpg")`
 [![Gmail Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)
 `r badger::badge_custom("follow me on", "WeChat", "green", "https://spatlyu.github.io/posts/posts-picture/lyu_spatstat-wechat.jpg")`
@@ -89,7 +89,7 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: message me at [*zhihu*](https://www.zhihu.com/people/lyu-geosocial) and [*mastodon*](https://mastodon.social/@SpatLyu)!
 - ⚡ Fun fact: I love coding, reading, thinking and eating delicious food.
-- 💬 Ping me about #Geoinformatics, #Statistics, #R, #C++, #Python and anything you like!
+- 💬 Ping me about #GeoInformatics, #Statistics, #R, #C++, #Python and anything you like!
 
 
 ![SpatLyu's github stats](https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true)

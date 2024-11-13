@@ -61,14 +61,14 @@ src="./logos/dnipm.png"                 width="50px"/></a>
 src="./logos/sdsfun.png"                width="50px"/></a>
 <a href="https://github.com/stscl/gdverse"       ><img 
 src="./logos/gdverse.png"               width="50px"/></a>
-<a href="https://github.com/stscl/sesp"          ><img 
-src="./logos/sesp.png"                  width="50px"/></a>
 <a href="https://github.com/stscl/spEDM"         ><img 
 src="./logos/spEDM.png"                 width="50px"/></a>
-<a href="https://github.com/stscl/geocn"           ><img 
-src="./logos/geocn.png"                 width="50px"/></a>
+<a href="https://github.com/stscl/sesp"          ><img 
+src="./logos/sesp.png"                  width="50px"/></a>
 <a href="https://github.com/stscl/sptorch"         ><img 
 src="./logos/sptorch.png"               width="50px"/></a>
+<a href="https://github.com/stscl/geocn"           ><img 
+src="./logos/geocn.png"                 width="50px"/></a>
 <a href="https://github.com/stscl/arcR"            ><img 
 src="./logos/arcR.png"                  width="50px"/></a>
 <a href="https://github.com/SpatLyu/spEcula"       ><img 

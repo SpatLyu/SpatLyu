@@ -53,14 +53,14 @@ I authored and maintain these R packages:
 src="./logos/geocomplexity.png"         width="50px"/></a>
 <a href="https://github.com/ausgis/GD"           ><img 
 src="./logos/gd.png"                    width="50px"/></a>
-<a href="https://github.com/ausgis/cisp"         ><img 
-src="./logos/cisp.png"                  width="50px"/></a>
 <a href="https://github.com/ausgis/dnipm"        ><img 
 src="./logos/dnipm.png"                 width="50px"/></a>
 <a href="https://github.com/stscl/sdsfun"        ><img 
 src="./logos/sdsfun.png"                width="50px"/></a>
 <a href="https://github.com/stscl/gdverse"       ><img 
 src="./logos/gdverse.png"               width="50px"/></a>
+<a href="https://github.com/ausgis/cisp"         ><img 
+src="./logos/cisp.png"                  width="50px"/></a>
 <a href="https://github.com/stscl/spEDM"         ><img 
 src="./logos/spEDM.png"                 width="50px"/></a>
 <a href="https://github.com/stscl/sesp"          ><img 

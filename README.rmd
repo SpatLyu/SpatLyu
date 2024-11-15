@@ -62,7 +62,7 @@ src="./logos/dnipm.png"                 width="50px"/></a>
 src="./logos/sdsfun.png"                width="50px"/></a>
     <a href="https://github.com/stscl/gdverse"       ><img 
 src="./logos/gdverse.png"               width="50px"/></a>
-    <a href="https://github.com/ausgis/cisp"         ><img 
+    <a href="https://github.com/stscl/cisp"          ><img 
 src="./logos/cisp.png"                  width="50px"/></a>
     <a href="https://github.com/stscl/spEDM"         ><img 
 src="./logos/spEDM.png"                 width="50px"/></a>

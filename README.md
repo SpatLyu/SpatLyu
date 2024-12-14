@@ -41,9 +41,9 @@ src="./logos/devtools.png"              width="50px"/></a>
 <a href="https://github.com/r-lib/usethis"         ><img 
 src="./logos/usethis.png"               width="50px"/></a>
 <a href="https://github.com/r-spatial/rgee"      ><img 
-src="./logos/rgee.png"                  width="50px"/></a>
+src="./logos/rgee.png"                  width="51px"/></a>
 <a href="https://github.com/r-spatial/qgisprocess" ><img 
-src="./logos/qgisprocess.png"           width="50px"/></a>
+src="./logos/qgisprocess.png"           width="52px"/></a>
 <!--   <a href="https://github.com/r-lib/vctrs"           ><img  -->
 <!-- src="./logos/vctrs.png"                 width="50px"/></a> -->
 <!--   <a href="https://github.com/r-tmap/tmap"           ><img  -->

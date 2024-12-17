@@ -90,9 +90,9 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
   
 ## 🧐 About
 
-- 🔭 I am currently an undergraduate majoring in *Geographic Information Science*(**GIS**) at Shaanxi Normal University(SNNU), while also serving as a visiting student in the Urban Governance and Design Thrust at the Hong Kong University of Science and Technology (Guangzhou).
-- 😄 I look forward to working with friends of all backgrounds to explore the fun of **statistics** and **programming**!
+- 🔭 I am currently an undergraduate majoring in *Geographic Information Science*(**GIS**) at *Shaanxi Normal University(SNNU)*, while also serving as a visiting student in the *Urban Governance and Design Thrust* at the *Hong Kong University of Science and Technology (Guangzhou)*.
 - 🏄‍ My research interests focus on **developing innovative spatial analysis methods** that leverage **spatial relationships**, such as *spatial dependence*, *spatial heterogeneity*, and *geographical similarity*, to advance *urban sustainability* and *climate change mitigation* efforts, and also include **developing the corresponding open source software**.
+- 😄 I look forward to working with friends of all backgrounds to explore the fun of **statistics** and **programming**!
 - 🌱 My motto in life is to grow as you learn!
 - 👯 And Many More...
 

@@ -72,8 +72,8 @@ src="./logos/gdverse.png"               width="50px"/></a>
 src="./logos/sdsfun.png"                width="50px"/></a>
     <a href="https://github.com/stscl/spEDM"         ><img 
 src="./logos/spEDM.png"                 width="50px"/></a>
-    <a href="https://github.com/stscl/sshicm"        ><img 
-src="./logos/sshicm.png"                  width="50px"/></a>
+    <a href="https://github.com/stscl/itmsa"         ><img 
+src="./logos/itmsa.png"                 width="50px"/></a>
     <a href="https://github.com/stscl/sesp"          ><img 
 src="./logos/sesp.png"                  width="50px"/></a>
   <a href="https://github.com/stscl/sptorch"         ><img 

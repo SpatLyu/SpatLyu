@@ -97,7 +97,7 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
   *spatial dependence*, *spatial heterogeneity*, and *geographical
   similarity*, to advance *urban sustainability* and *climate change
   mitigation* efforts, and also include **developing the corresponding
-  open source software**.
+  open source softwares**.
 - 😄 I look forward to working with friends of all backgrounds to
   explore the fun of **statistics** and **programming**!
 - 🌱 My motto in life is to grow as you learn!

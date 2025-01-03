@@ -88,10 +88,9 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
 ## 🧐 About
 
 - 🔭 I am currently an undergraduate majoring in *Geographic Information
-  Science*(**GIS**) at *Shaanxi Normal University(SNNU)*, while also
-  serving as a research assistant at *The Hong Kong Polytechnic
-  University* and *The Hong Kong University of Science and Technology
-  (Guangzhou)*.
+  Science* at *Shaanxi Normal University*, while also serving as a
+  research assistant at *The Hong Kong Polytechnic University* and *The
+  Hong Kong University of Science and Technology (Guangzhou)*.
 - 🏄‍ My research interests focus on **developing innovative spatial
   analysis methods** that leverage **spatial relationships**, such as
   *spatial dependence*, *spatial heterogeneity*, and *geographical

@@ -85,8 +85,20 @@ src="./logos/spEcula.png"               width="50px"/></a>
 <a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 
 src="./logos/tidyrgeoda.png"            width="50px"/></a>
 </p>
+<p align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" />
+</td>
+<td>
+<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/>
+</td>
+</tr>
+</table>
+</p>
 
-## 🧐 About
+### 🧐 About
 
 - 🔭 I am currently an undergraduate majoring in *Geographic Information
   Science* at *Shaanxi Normal University*, while also serving as a
@@ -105,28 +117,3 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
   [*mastodon*](https://mastodon.social/@SpatLyu)!
 - 💬 Ping me about \#GeoInformatics, \#Statistics, \#R, \#C++, \#Python
   and anything you like!
-
-<p align="center">
-<table style="width: 100%; border-collapse: collapse;">
-<tr>
-<td style="width: 50%; border-right: 2px solid #ccc;">
-<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" style="width: 100%;"/>
-</td>
-<td style="width: 50%;">
-<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/>
-</td>
-</tr>
-</table>
-</p>
-<!-- <p align="center"> -->
-<!--   <table> -->
-<!--     <tr> -->
-<!--       <td> -->
-<!--         <img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" style="width: 150%;"/> -->
-<!--       </td> -->
-<!--       <td> -->
-<!--         <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/> -->
-<!--       </td> -->
-<!--     </tr> -->
-<!--   </table> -->
-<!-- </p> -->

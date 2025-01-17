@@ -1,6 +1,9 @@
 <h1 align="center">
 Hi there👋, I’m Wenbo Lv 🌌
 </h1>
+<h2 align="center">
+Loves Programming and Open Source!
+</h3>
 
 [![GitHub
 followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
@@ -13,9 +16,6 @@ Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-s
 [![Profile
 Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
 
-<h3 align="center">
-A relatively dedicated boy who loves programming and open source!!
-</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a>
 </p>

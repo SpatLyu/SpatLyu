@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi there👋, I’m Wenbo Lv 🌌
 </h1>
-<h2 align="center">
+<h4 align="center">
 Loves Programming and Open Source!
 </h3>
 

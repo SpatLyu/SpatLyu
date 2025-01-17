@@ -7,7 +7,7 @@ html_preview: false
 
 <h1 align="center">Hi there👋, I'm Wenbo Lv 🌌</h1>
 
-<h2 align="center">Loves Programming and Open Source!</h3>
+<h4 align="center">Loves Programming and Open Source!</h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
 [![ZhiHu Badge](https://img.shields.io/badge/1191-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)

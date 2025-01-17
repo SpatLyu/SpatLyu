@@ -89,9 +89,18 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
 <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a>
 </p>
 <p align="center">
-<iframe src="https://ionicabizau.github.io/github-profile-languages/api.html?stscl" frameborder="0">
-</iframe>
-<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" />
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+
+    <div>
+      <iframe src="https://ionicabizau.github.io/github-profile-languages/api.html?stscl" frameborder="0" width="400" height="200"></iframe>
+    </div>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" width="400" height="200" />
+    </div>
+
+</div>
+
 </p>
 
 ## 🧐 About

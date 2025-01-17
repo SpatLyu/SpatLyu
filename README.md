@@ -100,12 +100,12 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
   open source softwares**.
 - 😄 I look forward to working with friends of all backgrounds to
   explore the fun of **statistics** and **programming**!
-- 🌱 My motto in life is to grow as you learn!
-- 👯 And Many More…
+  <!-- - 🌱 My motto in life is to grow as you learn! -->
+  <!-- - 👯 And Many More... -->
 
-# <img src="https://github.com/SpatLyu/SpatLyu/blob/main/Hi.gif" width="29px"> Hello world! <img src="https://github.com/SpatLyu/SpatLyu/blob/main/Earth.gif" width="24px">
+<!-- # <img src="https://github.com/SpatLyu/SpatLyu/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SpatLyu/SpatLyu/blob/main/Earth.gif" width="24px"> -->
+<!-- - 💬 Ask me about anything and everything! -->
 
-- 💬 Ask me about anything and everything!
 - 📫 How to reach me: message me at
   [*zhihu*](https://www.zhihu.com/people/lyu-geosocial) and
   [*mastodon*](https://mastodon.social/@SpatLyu)!

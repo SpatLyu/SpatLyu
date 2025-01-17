@@ -87,6 +87,8 @@ src="./logos/spEcula.png"               width="50px"/></a>
   <a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 
 src="./logos/tidyrgeoda.png"            width="50px"/></a>
 </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a> </p>
   
 ## 🧐 About
 

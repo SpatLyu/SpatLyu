@@ -107,8 +107,12 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
   and anything you like!
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 50%;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" style="width: 50%;"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" />
 </p>

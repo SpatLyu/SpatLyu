@@ -14,19 +14,6 @@ Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-s
 [![Profile
 Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
 
-<p align="center">
-<table style="width: 100%; border-collapse: collapse;">
-<tr>
-<td style="width: 50%; border-right: 2px solid #ccc; padding-right: 20%;">
-<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&&theme=blueberry&show_icons=true" style="width: 100%;"/>
-</td>
-<td style="width: 50%;">
-<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/>
-</td>
-</tr>
-</table>
-</p>
-
 I use these R packages a lot:
 
 <p align="left">

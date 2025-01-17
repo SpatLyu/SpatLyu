@@ -14,6 +14,19 @@ Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-s
 [![Profile
 Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
 
+<p align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" />
+</td>
+<td>
+<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/>
+</td>
+</tr>
+</table>
+</p>
+
 I use these R packages a lot:
 
 <p align="left">
@@ -84,18 +97,6 @@ src="./logos/arcR.png"                  width="50px"/></a>
 src="./logos/spEcula.png"               width="50px"/></a>
 <a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 
 src="./logos/tidyrgeoda.png"            width="50px"/></a>
-</p>
-<p align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" />
-</td>
-<td>
-<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/>
-</td>
-</tr>
-</table>
 </p>
 
 ### 🧐 About

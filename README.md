@@ -114,13 +114,10 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
 - 💬 Ping me about \#GeoInformatics, \#Statistics, \#R, \#C++, \#Python
   and anything you like!
 
-<figure>
-<img
-src="https://github-readme-stats.vercel.app/api?username=SpatLyu&amp;show_icons=true"
-alt="SpatLyu’s github stats" />
-<figcaption aria-hidden="true">SpatLyu’s github stats</figcaption>
-</figure>
-
+<!-- ![SpatLyu's github stats](https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true) -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" /></a>
+</p>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a>
 </p>

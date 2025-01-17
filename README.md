@@ -107,12 +107,20 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
   and anything you like!
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 50%;"/>
-<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" style="width: 50%;"/>
+<table>
+<tr>
+<td>
+<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" style="width: 100%;"/>
+</td>
+</tr>
+</table>
 </p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 50%;"/> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" style="width: 50%;"/> -->
+<!-- </p> -->
+<!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /> </p> -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" /> </p> -->

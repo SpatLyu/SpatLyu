@@ -1,9 +1,7 @@
 <h1 align="center">
 Hi there👋, I’m Wenbo Lv 🌌
 </h1>
-<h3 align="center">
-Loves Programming and Open Source!
-</h3>
+<!-- <h4 align="center">Loves Programming and Open Source!</h3> -->
 
 [![GitHub
 followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
@@ -87,9 +85,6 @@ src="./logos/spEcula.png"               width="50px"/></a>
 <a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 
 src="./logos/tidyrgeoda.png"            width="50px"/></a>
 </p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a>
-</p>
 
 ## 🧐 About
 
@@ -125,3 +120,7 @@ src="https://github-readme-stats.vercel.app/api?username=SpatLyu&amp;show_icons=
 alt="SpatLyu’s github stats" />
 <figcaption aria-hidden="true">SpatLyu’s github stats</figcaption>
 </figure>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a>
+</p>

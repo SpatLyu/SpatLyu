@@ -5,17 +5,32 @@ Hi there👋, I’m Wenbo Lv 🌌
 A relatively dedicated boy who loves programming and open source!!
 </h3>
 
-[![GitHub
-followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
-[![ZhiHu
-Badge](https://img.shields.io/badge/1191-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
-[![](https://img.shields.io/badge/buy%20me%20a-Coffee-purple.svg)](https://spatlyu.github.io/posts/posts-picture/alipay.jpg)
-[![Gmail
-Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)
-[![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://spatlyu.github.io/posts/posts-picture/lyu_spatstat-wechat.jpg)
-[![Profile
-Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
+<div style="display: flex; justify-content: center; align-items: center; gap: 1px;">
 
+<a href="https://github.com/SpatLyu/?tab=follow">
+<img src="https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social" alt="GitHub followers">
+</a> <a href="https://www.zhihu.com/people/lyu-geosocial">
+<img src="https://img.shields.io/badge/1191-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue" alt="ZhiHu Badge">
+</a> <a href="https://spatlyu.github.io/posts/posts-picture/alipay.jpg">
+<img src="https://img.shields.io/badge/buy%20me%20a-Coffee-purple" alt="Buy Me a Coffee">
+</a> <a href="mailto:lyu.geosocial@gmail.com">
+<img src="https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
+<a href="https://spatlyu.github.io/posts/posts-picture/lyu_spatstat-wechat.jpg">
+<img src="https://img.shields.io/badge/follow%20me%20on-WeChat-green" alt="Follow Me on WeChat">
+</a>
+<a href="https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat">
+<img src="https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat" alt="Profile Views">
+</a>
+
+</div>
+
+<!-- [![GitHub followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow) -->
+<!-- [![ZhiHu Badge](https://img.shields.io/badge/1191-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial) -->
+<!-- [![](https://img.shields.io/badge/buy%20me%20a-Coffee-purple.svg)](https://spatlyu.github.io/posts/posts-picture/alipay.jpg) -->
+<!-- [![Gmail Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com) -->
+<!-- [![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://spatlyu.github.io/posts/posts-picture/lyu_spatstat-wechat.jpg) -->
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat) -->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a>
 </p>

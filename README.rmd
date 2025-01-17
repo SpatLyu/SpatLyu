@@ -20,7 +20,7 @@ html_preview: false
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td style="width: 50%; border-right: 2px solid #ccc; padding-right: 20%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" style="width: 100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&&theme=blueberry&show_icons=true" style="width: 100%;"/>
       </td>
       <td style="width: 50%;">
         <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/>

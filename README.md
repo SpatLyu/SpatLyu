@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi there👋, I’m Wenbo Lv 🌌
 </h1>
-<h4 align="center">
+<h3 align="center">
 Loves Programming and Open Source!
 </h3>
 
@@ -15,10 +15,6 @@ Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-s
 [![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://spatlyu.github.io/posts/posts-picture/lyu_spatstat-wechat.jpg)
 [![Profile
 Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a>
-</p>
 
 I use these R packages a lot:
 
@@ -90,6 +86,9 @@ src="./logos/arcR.png"                  width="50px"/></a>
 src="./logos/spEcula.png"               width="50px"/></a>
 <a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 
 src="./logos/tidyrgeoda.png"            width="50px"/></a>
+</p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a>
 </p>
 
 ## 🧐 About

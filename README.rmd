@@ -7,7 +7,7 @@ html_preview: false
 
 <h1 align="center">Hi there👋, I'm Wenbo Lv 🌌</h1>
 
-<h4 align="center">Loves Programming and Open Source!</h3>
+<h3 align="center">Loves Programming and Open Source!</h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
 [![ZhiHu Badge](https://img.shields.io/badge/1191-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
@@ -15,8 +15,6 @@ html_preview: false
 [![Gmail Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)
 `r badger::badge_custom("follow me on", "WeChat", "green", "https://spatlyu.github.io/posts/posts-picture/lyu_spatstat-wechat.jpg")`
 [![Profile Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a> </p>
 
 I use these R packages a lot: 
 
@@ -89,6 +87,8 @@ src="./logos/spEcula.png"               width="50px"/></a>
   <a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 
 src="./logos/tidyrgeoda.png"            width="50px"/></a>
 </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a> </p>
   
 ## 🧐 About
 

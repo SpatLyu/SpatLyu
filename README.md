@@ -110,10 +110,10 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
 <table>
 <tr>
 <td>
-<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" style="width: 150%;"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" style="width: 100%;"/>
+<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/>
 </td>
 </tr>
 </table>

@@ -92,7 +92,7 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
   Science* at *Shaanxi Normal University*, while also serving as a
   research assistant at *The Hong Kong Polytechnic University* and *The
   Hong Kong University of Science and Technology (Guangzhou)*.
-- 🏄‍ My research interests focus on **developing innovative spatial
+- 🏄 My research interests focus on **developing innovative spatial
   analysis methods** that leverage **spatial relationships**, such as
   *spatial dependence*, *spatial heterogeneity*, and *geographical
   similarity*, to advance *urban sustainability* and *climate change
@@ -100,17 +100,9 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
   open source softwares**.
 - 😄 I look forward to working with friends of all backgrounds to
   explore the fun of **statistics** and **programming**!
-  <!-- - 🌱 My motto in life is to grow as you learn! -->
-  <!-- - 👯 And Many More... -->
-
-<!-- # <img src="https://github.com/SpatLyu/SpatLyu/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SpatLyu/SpatLyu/blob/main/Earth.gif" width="24px"> -->
-<!-- - 💬 Ask me about anything and everything! -->
-
 - 📫 How to reach me: message me at
   [*zhihu*](https://www.zhihu.com/people/lyu-geosocial) and
   [*mastodon*](https://mastodon.social/@SpatLyu)!
-- ⚡ Fun fact: I love coding, reading, thinking and eating delicious
-  food.
 - 💬 Ping me about \#GeoInformatics, \#Statistics, \#R, \#C++, \#Python
   and anything you like!
 

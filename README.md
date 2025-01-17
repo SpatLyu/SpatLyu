@@ -85,23 +85,6 @@ src="./logos/spEcula.png"               width="50px"/></a>
 <a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 
 src="./logos/tidyrgeoda.png"            width="50px"/></a>
 </p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a>
-</p>
-<p align="center">
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-
-    <div>
-      <iframe src="https://ionicabizau.github.io/github-profile-languages/api.html?stscl" frameborder="0" width="400" height="200"></iframe>
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" width="400" height="200" />
-    </div>
-
-</div>
-
-</p>
 
 ## 🧐 About
 
@@ -122,3 +105,10 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
   [*mastodon*](https://mastodon.social/@SpatLyu)!
 - 💬 Ping me about \#GeoInformatics, \#Statistics, \#R, \#C++, \#Python
   and anything you like!
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" /></a>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" /></a>
+</p>

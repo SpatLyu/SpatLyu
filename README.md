@@ -54,14 +54,14 @@ src="./logos/purrr.png"                 width="50px"/></a>
 src="./logos/devtools.png"              width="50px"/></a>
 <a href="https://github.com/r-lib/usethis"         ><img 
 src="./logos/usethis.png"               width="50px"/></a>
-<a href="https://github.com/r-spatial/rgee"      ><img 
+<a href="https://github.com/r-spatial/rgee"        ><img 
 src="./logos/rgee.png"                  width="50px"/></a>
+<a href="https://github.com/r-tmap/tmap"           ><img
+src="./logos/tmap.png"                  width="50px"/></a>
 <a href="https://github.com/r-spatial/qgisprocess" ><img 
 src="./logos/qgisprocess.png"           width="50px"/></a>
 <!--   <a href="https://github.com/r-lib/vctrs"           ><img  -->
 <!-- src="./logos/vctrs.png"                 width="50px"/></a> -->
-<!--   <a href="https://github.com/r-tmap/tmap"           ><img  -->
-<!-- src="./logos/tmap.png"                  width="50px"/></a> -->
 </p>
 
 I authored and maintain these R packages:
@@ -71,12 +71,12 @@ I authored and maintain these R packages:
 src="./logos/gd.png"                    width="50px"/></a>
 <a href="https://github.com/ausgis/geocomplexity"><img 
 src="./logos/geocomplexity.png"         width="50px"/></a>
-<!--     <a href="https://github.com/ausgis/localsp"      ><img  -->
-<!-- src="./logos/localsp.png"               width="50px"/></a> -->
 <a href="https://github.com/ausgis/dnipm"        ><img 
 src="./logos/dnipm.png"                 width="50px"/></a>
 <a href="https://github.com/stscl/cisp"          ><img 
 src="./logos/cisp.png"                  width="50px"/></a>
+<a href="https://github.com/stscl/sesp"          ><img 
+src="./logos/sesp.png"                  width="50px"/></a>
 <a href="https://github.com/stscl/gdverse"       ><img 
 src="./logos/gdverse.png"               width="50px"/></a>
 <a href="https://github.com/stscl/sdsfun"        ><img 
@@ -85,14 +85,14 @@ src="./logos/sdsfun.png"                width="50px"/></a>
 src="./logos/spEDM.png"                 width="50px"/></a>
 <a href="https://github.com/stscl/itmsa"         ><img 
 src="./logos/itmsa.png"                 width="50px"/></a>
-<a href="https://github.com/stscl/sesp"          ><img 
-src="./logos/sesp.png"                  width="50px"/></a>
 <a href="https://github.com/stscl/sptorch"         ><img 
 src="./logos/sptorch.png"               width="50px"/></a>
 <a href="https://github.com/stscl/geocn"           ><img 
 src="./logos/geocn.png"                 width="50px"/></a>
 <a href="https://github.com/stscl/arcR"            ><img
 src="./logos/arcR.png"                  width="50px"/></a>
+<a href="https://github.com/ausgis/localsp"        ><img
+src="./logos/localsp.png"               width="50px"/></a>
 <a href="https://github.com/SpatLyu/spEcula"       ><img 
 src="./logos/spEcula.png"               width="50px"/></a>
 <a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 

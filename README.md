@@ -44,10 +44,10 @@ src="./logos/terra.png"                 width="50px"/></a>
 src="./logos/rlang.png"                 width="50px"/></a>
 <a href="https://github.com/tidyverse/tibble"      ><img 
 src="./logos/tibble.png"                width="50px"/></a>
-<a href="https://github.com/Rdatatable/data.table/"><img 
-src="./logos/data.table.png"            width="50px"/></a>
 <a href="https://github.com/rstudio/rmarkdown"     ><img 
 src="./logos/rmarkdown.png"             width="50px"/></a>
+<a href="https://github.com/Rdatatable/data.table/"><img 
+src="./logos/data.table.png"            width="50px"/></a>
 <a href="https://github.com/tidyverse/purrr"       ><img 
 src="./logos/purrr.png"                 width="50px"/></a>
 <a href="https://github.com/r-lib/devtools"        ><img 
@@ -89,14 +89,14 @@ src="./logos/itmsa.png"                 width="50px"/></a>
 src="./logos/sptorch.png"               width="50px"/></a>
 <a href="https://github.com/stscl/geocn"           ><img 
 src="./logos/geocn.png"                 width="50px"/></a>
+<a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 
+src="./logos/tidyrgeoda.png"            width="50px"/></a>
 <a href="https://github.com/stscl/arcR"            ><img
 src="./logos/arcR.png"                  width="50px"/></a>
 <a href="https://github.com/ausgis/localsp"        ><img
 src="./logos/localsp.png"               width="50px"/></a>
 <a href="https://github.com/SpatLyu/spEcula"       ><img 
 src="./logos/spEcula.png"               width="50px"/></a>
-<a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 
-src="./logos/tidyrgeoda.png"            width="50px"/></a>
 </p>
 
 ### 🧐 About

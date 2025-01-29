@@ -32,36 +32,36 @@ html_preview: false
 I use these R packages a lot: 
 
 <p align="left"> 
-    <a href="https://github.com/RcppCore/Rcpp"       ><img 
+  <a href="https://github.com/RcppCore/Rcpp"         ><img 
 src="./logos/Rcpp.png"                  width="50px"/></a>
   <a href="https://github.com/tidyverse/dplyr"       ><img 
 src="./logos/dplyr.png"                 width="50px"/></a>
   <a href="https://github.com/tidyverse/ggplot2"     ><img 
 src="./logos/ggplot2.png"               width="50px"/></a>
-    <a href="https://github.com/r-spatial/sf"        ><img 
+  <a href="https://github.com/r-spatial/sf"          ><img 
 src="./logos/sf.png"                    width="50px"/></a>
-    <a href="https://github.com/rspatial/terra"      ><img 
+  <a href="https://github.com/rspatial/terra"        ><img 
 src="./logos/terra.png"                 width="50px"/></a>
-  <a href="https://github.com/r-lib/rlang"           ><img 
-src="./logos/rlang.png"                 width="50px"/></a>
-  <a href="https://github.com/tidyverse/tibble"      ><img 
-src="./logos/tibble.png"                width="50px"/></a>
   <a href="https://github.com/rstudio/rmarkdown"     ><img 
 src="./logos/rmarkdown.png"             width="50px"/></a>
-  <a href="https://github.com/Rdatatable/data.table/"><img 
-src="./logos/data.table.png"            width="50px"/></a>
   <a href="https://github.com/tidyverse/purrr"       ><img 
 src="./logos/purrr.png"                 width="50px"/></a>
-  <a href="https://github.com/r-lib/devtools"        ><img 
-src="./logos/devtools.png"              width="50px"/></a>
+  <a href="https://github.com/tidyverse/tibble"      ><img 
+src="./logos/tibble.png"                width="50px"/></a>
   <a href="https://github.com/r-lib/usethis"         ><img 
 src="./logos/usethis.png"               width="50px"/></a>
+  <a href="https://github.com/r-lib/devtools"        ><img 
+src="./logos/devtools.png"              width="50px"/></a>
   <a href="https://github.com/r-spatial/rgee"        ><img 
 src="./logos/rgee.png"                  width="50px"/></a>
   <a href="https://github.com/r-tmap/tmap"           ><img
 src="./logos/tmap.png"                  width="50px"/></a>
   <a href="https://github.com/r-spatial/qgisprocess" ><img 
 src="./logos/qgisprocess.png"           width="50px"/></a>
+  <a href="https://github.com/Rdatatable/data.table/"><img 
+src="./logos/data.table.png"            width="50px"/></a>
+  <a href="https://github.com/r-lib/rlang"           ><img 
+src="./logos/rlang.png"                 width="50px"/></a>
 <!--   <a href="https://github.com/r-lib/vctrs"           ><img  -->
 <!-- src="./logos/vctrs.png"                 width="50px"/></a> -->
 </p>
@@ -69,23 +69,23 @@ src="./logos/qgisprocess.png"           width="50px"/></a>
 I authored and maintain these R packages:
 
 <p align="left"> 
-    <a href="https://github.com/ausgis/GD"           ><img 
+  <a href="https://github.com/ausgis/GD"             ><img 
 src="./logos/gd.png"                    width="50px"/></a>
-    <a href="https://github.com/ausgis/geocomplexity"><img 
+  <a href="https://github.com/ausgis/geocomplexity"  ><img 
 src="./logos/geocomplexity.png"         width="50px"/></a>
-    <a href="https://github.com/ausgis/dnipm"        ><img 
+  <a href="https://github.com/ausgis/dnipm"          ><img 
 src="./logos/dnipm.png"                 width="50px"/></a>
-    <a href="https://github.com/stscl/cisp"          ><img 
+  <a href="https://github.com/stscl/cisp"            ><img 
 src="./logos/cisp.png"                  width="50px"/></a>
-    <a href="https://github.com/stscl/sesp"          ><img 
+  <a href="https://github.com/stscl/sesp"            ><img 
 src="./logos/sesp.png"                  width="50px"/></a>
-    <a href="https://github.com/stscl/gdverse"       ><img 
+  <a href="https://github.com/stscl/gdverse"         ><img 
 src="./logos/gdverse.png"               width="50px"/></a>
-    <a href="https://github.com/stscl/sdsfun"        ><img 
+  <a href="https://github.com/stscl/sdsfun"          ><img 
 src="./logos/sdsfun.png"                width="50px"/></a>
-    <a href="https://github.com/stscl/spEDM"         ><img 
+  <a href="https://github.com/stscl/spEDM"           ><img 
 src="./logos/spEDM.png"                 width="50px"/></a>
-    <a href="https://github.com/stscl/itmsa"         ><img 
+  <a href="https://github.com/stscl/itmsa"           ><img 
 src="./logos/itmsa.png"                 width="50px"/></a>
   <a href="https://github.com/stscl/sptorch"         ><img 
 src="./logos/sptorch.png"               width="50px"/></a>

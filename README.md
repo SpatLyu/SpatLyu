@@ -107,12 +107,12 @@ src="./logos/spEcula.png"               width="50px"/></a>
   Hong Kong University of Science and Technology (Guangzhou)*.
 - 🏄 My research interests lie in **advancing methodologies in spatial
   causal inference** and **developing high-performance computational
-  tools**, with a primary focus on R packages. Currently, my work
+  tools**, with a primary focus on *R packages*. Currently, my work
   centers on **Empirical Dynamic Modeling (EDM)** framework for modeling
-  dynamic system and **Difference-in-Differences (DID)** methods for
-  event studies . I am particularly interested in leveraging these
-  approaches to address critical challenges in **urban sustainability**,
-  **climate change mitigation**, and broader global issues.
+  *dynamic system* and **Difference-in-Differences (DID)** methods for
+  *event studies*. I am particularly interested in leveraging these
+  approaches to address critical challenges in *urban sustainability*,
+  *climate change mitigation*, and broader global issues.
 - 😄 I look forward to working with friends of all backgrounds to
   explore the fun of **statistics** and **programming**!
 - 📫 How to reach me: message me at

@@ -105,12 +105,19 @@ src="./logos/spEcula.png"               width="50px"/></a>
   Science* at *Shaanxi Normal University*, while also serving as a
   research assistant at *The Hong Kong Polytechnic University* and *The
   Hong Kong University of Science and Technology (Guangzhou)*.
-- 🏄 My research interests focus on **developing innovative spatial
-  analysis methods** that leverage **spatial relationships**, such as
-  *spatial dependence*, *spatial heterogeneity*, and *geographical
-  similarity*, to advance *urban sustainability* and *climate change
-  mitigation* efforts, and also include **developing the corresponding
-  open source softwares**.
+- 🏄 My research interests lie in **advancing methodologies in spatial
+  causal inference** and **developing high-performance computational
+  tools**, with a primary focus on R packages. Currently, my work
+  centers on:
+
+1.  **Empirical Dynamic Modeling (EDM)** for capturing and modeling
+    dynamic system behaviors  
+2.  **Difference-in-Differences (DID)** methods for event studies
+
+I am particularly interested in leveraging these approaches to address
+critical challenges in **urban sustainability**, **climate change
+mitigation**, and broader global issues.
+
 - 😄 I look forward to working with friends of all backgrounds to
   explore the fun of **statistics** and **programming**!
 - 📫 How to reach me: message me at

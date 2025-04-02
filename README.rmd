@@ -10,7 +10,7 @@ html_preview: false
 <!-- <h4 align="center">Loves Programming and Open Source!</h3> -->
 
 [![GitHub followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
-[![ZhiHu Badge](https://img.shields.io/badge/1226-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
+[![ZhiHu Badge](https://img.shields.io/badge/1227-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
 `r badger::badge_custom("buy me a", "Coffee", "purple", "https://spatlyu.github.io/posts/posts-picture/alipay.jpg")`
 [![Gmail Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)
 `r badger::badge_custom("follow me on", "WeChat", "green", "https://spatlyu.github.io/posts/posts-picture/lyu_spatstat-wechat.jpg")`

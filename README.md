@@ -71,8 +71,6 @@ I authored and maintain these R packages:
 src="./logos/gd.png"                    width="50px"/></a>
 <a href="https://github.com/ausgis/geocomplexity"  ><img 
 src="./logos/geocomplexity.png"         width="50px"/></a>
-<a href="https://github.com/ausgis/dnipm"          ><img 
-src="./logos/dnipm.png"                 width="50px"/></a>
 <a href="https://github.com/stscl/cisp"            ><img 
 src="./logos/cisp.png"                  width="50px"/></a>
 <a href="https://github.com/stscl/sesp"            ><img 
@@ -83,6 +81,8 @@ src="./logos/gdverse.png"               width="50px"/></a>
 src="./logos/sdsfun.png"                width="50px"/></a>
 <a href="https://github.com/stscl/spEDM"           ><img 
 src="./logos/spEDM.png"                 width="50px"/></a>
+<a href="https://github.com/stscl/tEDM"            ><img 
+src="./logos/tEDM.png"                  width="50px"/></a>
 <a href="https://github.com/stscl/itmsa"           ><img 
 src="./logos/itmsa.png"                 width="50px"/></a>
 <a href="https://github.com/stscl/sptorch"         ><img 

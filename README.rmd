@@ -103,7 +103,7 @@ src="./logos/sptorch.png"               width="50px"/></a>
   
 ### 🧐 About
 
-- 🔭 I am currently an undergraduate majoring in *Geographic Information Science* at *Shaanxi Normal University*, while also serving as a research assistant at *The Hong Kong Polytechnic University* and *The Hong Kong University of Science and Technology (Guangzhou)*.
+- 🔭 I am currently a research assistant at *The Hong Kong Polytechnic University* and *The Hong Kong University of Science and Technology (Guangzhou)*.
 - 🏄 My research interests lie in **advancing methodologies in spatial causal inference** and **developing high-performance computational tools**, with a primary focus on *R packages*. 
 - 🔬 Currently, my work centers on **Empirical Dynamic Modeling (EDM)** framework for modeling *dynamic system* and **Difference-in-Differences (DID)** methods for *event studies*. I am particularly interested in leveraging these approaches to address critical challenges in *urban sustainability*, *climate change mitigation*, and broader global issues.
 - 😄 I look forward to working with friends of all backgrounds to explore the fun of **statistics** and **programming**!

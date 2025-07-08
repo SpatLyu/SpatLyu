@@ -101,10 +101,9 @@ src="./logos/sptorch.png"               width="50px"/></a>
 
 ### 🧐 About
 
-- 🔭 I am currently an undergraduate majoring in *Geographic Information
-  Science* at *Shaanxi Normal University*, while also serving as a
-  research assistant at *The Hong Kong Polytechnic University* and *The
-  Hong Kong University of Science and Technology (Guangzhou)*.
+- 🔭 I am currently a research assistant at *The Hong Kong Polytechnic
+  University* and *The Hong Kong University of Science and Technology
+  (Guangzhou)*.
 - 🏄 My research interests lie in **advancing methodologies in spatial
   causal inference** and **developing high-performance computational
   tools**, with a primary focus on *R packages*.

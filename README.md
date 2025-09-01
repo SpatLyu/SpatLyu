@@ -117,5 +117,5 @@ src="./logos/sptorch.png"               width="50px"/></a>
 - 📫 How to reach me: message me at
   [*zhihu*](https://www.zhihu.com/people/lyu-geosocial) and
   [*mastodon*](https://mastodon.social/@SpatLyu)!
-- 💬 Ping me about \#GeoInformatics, \#Statistics, \#R, \#C++, \#Python
-  and anything you like!
+- 💬 Ping me about \#GeoInformatics, \#Statistics, \#Causality, \#R,
+  \#C++, \#Python and anything you like!

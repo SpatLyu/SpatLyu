@@ -108,4 +108,4 @@ src="./logos/sptorch.png"               width="50px"/></a>
 - 🔬 Currently, my work centers on **Empirical Dynamic Modeling (EDM)** framework for modeling *dynamic system* and **Difference-in-Differences (DID)** methods for *event studies*. I am particularly interested in leveraging these approaches to address critical challenges in *urban sustainability*, *climate change mitigation*, and broader global issues.
 - 😄 I look forward to working with friends of all backgrounds to explore the fun of **statistics** and **programming**!
 - 📫 How to reach me: message me at [*zhihu*](https://www.zhihu.com/people/lyu-geosocial) and [*mastodon*](https://mastodon.social/@SpatLyu)!
-- 💬 Ping me about #GeoInformatics, #Statistics, #R, #C++, #Python and anything you like!
+- 💬 Ping me about #GeoInformatics, #Statistics, #Causality, #R, #C++, #Python and anything you like!

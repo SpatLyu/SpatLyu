@@ -101,9 +101,8 @@ src="./logos/sptorch.png"               width="50px"/></a>
 
 ### 🧐 About
 
-- 🔭 I am currently a research assistant at *The Hong Kong University of
-  Science and Technology (Guangzhou)* and *The Hong Kong Polytechnic
-  University*.
+<!-- - 🔭 I am currently a research assistant at *The Hong Kong University of Science and Technology (Guangzhou)* and *The Hong Kong Polytechnic University*. -->
+
 - 🏄 My research interests lie in **advancing methodologies in spatial
   causal inference** and **developing high-performance computational
   tools**, with a primary focus on *R packages*.

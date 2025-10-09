@@ -1,8 +1,6 @@
 <h1 align="center">
-
 Hi there👋, I’m Wenbo Lv 🌌
 </h1>
-
 <!-- <h4 align="center">Loves Programming and Open Source!</h3> -->
 
 [![GitHub
@@ -17,31 +15,21 @@ Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-s
 Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
 
 <p align="center">
-
 <table>
-
 <tr>
-
 <td>
-
 <img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" />
 </td>
-
 <td>
-
 <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/>
 </td>
-
 </tr>
-
 </table>
-
 </p>
 
 I use these R packages a lot:
 
 <p align="left">
-
 <a href="https://github.com/RcppCore/Rcpp"         ><img 
 src="./logos/Rcpp.png"                  width="50px"/></a>
 <a href="https://github.com/tidyverse/dplyr"       ><img 
@@ -79,7 +67,6 @@ src="./logos/rlang.png"                 width="50px"/></a>
 I authored and maintain these R packages:
 
 <p align="left">
-
 <a href="https://github.com/ausgis/GD"             ><img 
 src="./logos/gd.png"                    width="50px"/></a>
 <a href="https://github.com/ausgis/geocomplexity"  ><img 
@@ -96,6 +83,8 @@ src="./logos/gdverse.png"               width="50px"/></a>
 src="./logos/sdsfun.png"                width="50px"/></a>
 <a href="https://github.com/stscl/spEDM"           ><img 
 src="./logos/spEDM.png"                 width="50px"/></a>
+<a href="https://github.com/stscl/infocausality"   ><img 
+src="./logos/infocausality.png"         width="50px"/></a>
 <a href="https://github.com/stscl/tEDM"            ><img 
 src="./logos/tEDM.png"                  width="50px"/></a>
 <a href="https://github.com/stscl/geocn"           ><img 
@@ -104,8 +93,6 @@ src="./logos/geocn.png"                 width="50px"/></a>
 src="./logos/tidyrgeoda.png"            width="50px"/></a>
 <a href="https://github.com/stscl/arcR"            ><img
 src="./logos/arcR.png"                  width="50px"/></a>
-<a href="https://github.com/ausgis/localsp"        ><img
-src="./logos/localsp.png"               width="50px"/></a>
 <a href="https://github.com/SpatLyu/spEcula"       ><img 
 src="./logos/spEcula.png"               width="50px"/></a>
 <a href="https://github.com/stscl/sptorch"         ><img 

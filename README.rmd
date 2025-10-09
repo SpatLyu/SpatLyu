@@ -85,10 +85,10 @@ src="./logos/gdverse.png"               width="50px"/></a>
 src="./logos/sdsfun.png"                width="50px"/></a>
   <a href="https://github.com/stscl/spEDM"           ><img 
 src="./logos/spEDM.png"                 width="50px"/></a>
-  <a href="https://github.com/stscl/infocausality"   ><img 
-src="./logos/infocausality.png"         width="50px"/></a>
   <a href="https://github.com/stscl/tEDM"            ><img 
 src="./logos/tEDM.png"                  width="50px"/></a>
+  <a href="https://github.com/stscl/infocausality"   ><img 
+src="./logos/infocausality.png"         width="50px"/></a>
   <a href="https://github.com/stscl/geocn"           ><img 
 src="./logos/geocn.png"                 width="50px"/></a>
   <a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 

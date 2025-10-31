@@ -1,8 +1,6 @@
 <h1 align="center">
-
 Hi there👋, I’m Wenbo Lv 🌌
 </h1>
-
 <!-- <h4 align="center">Loves Programming and Open Source!</h3> -->
 
 [![GitHub
@@ -17,31 +15,21 @@ Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-s
 Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=44be16&style=flat)
 
 <p align="center">
-
 <table>
-
 <tr>
-
 <td>
-
 <img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" />
 </td>
-
 <td>
-
 <img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/>
 </td>
-
 </tr>
-
 </table>
-
 </p>
 
 I use these R packages a lot:
 
 <p align="left">
-
 <a href="https://github.com/RcppCore/Rcpp"         ><img 
 src="./logos/Rcpp.png"                  width="50px"/></a>
 <a href="https://github.com/tidyverse/dplyr"       ><img 
@@ -79,7 +67,6 @@ src="./logos/rlang.png"                 width="50px"/></a>
 I authored and maintain these R packages:
 
 <p align="left">
-
 <a href="https://github.com/ausgis/GD"             ><img 
 src="./logos/gd.png"                    width="50px"/></a>
 <a href="https://github.com/ausgis/geocomplexity"  ><img 
@@ -120,11 +107,14 @@ src="./logos/sptorch.png"               width="50px"/></a>
   causal inference** and **developing high-performance computational
   tools**, with a primary focus on *R packages*.
 - 🔬 Currently, my work centers on **Empirical Dynamic Modeling (EDM)**
-  framework for modeling *dynamic system* and
-  **Difference-in-Differences (DID)** methods for *event studies*. I am
-  particularly interested in leveraging these approaches to address
-  critical challenges in *urban sustainability*, *climate change
-  mitigation*, and broader global issues.
+  framework for modeling *dynamic system*, **information theory** for
+  quantifying *information flow* and *causal interdependence*,
+  **ordinary differential equations (ODEs)** for characterizing
+  *spatiotemporal processes* and system evolution, as well as
+  **counterfactual** and **potential outcomes** framework for estimating
+  *causal effects*. I aim to integrate these approaches to better
+  understand and address complex challenges in *urban sustainability*,
+  *climate change mitigation*, and broader global issues.
 - 😄 I look forward to working with friends of all backgrounds to
   explore the fun of **statistics** and **programming**!
 - 📫 How to reach me: message me at

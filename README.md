@@ -110,7 +110,7 @@ src="./logos/sptorch.png"               width="50px"/></a>
   framework for modeling *dynamic system*, **information theory** for
   quantifying *information flow* and *causal interdependence*,
   **ordinary differential equations (ODEs)** for characterizing
-  *spatiotemporal processes* and system evolution, as well as
+  *spatiotemporal processes* and *system evolution*, as well as
   **counterfactual** and **potential outcomes** framework for estimating
   *causal effects*. I aim to integrate these approaches to better
   understand and address complex challenges in *urban sustainability*,

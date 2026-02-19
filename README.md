@@ -18,10 +18,10 @@ Views](https://komarev.com/ghpvc/?username=SpatLyu&label=Profile%20views&color=4
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=SpatLyu&show_icons=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=SpatLyu" />
 </td>
 <td>
-<img src="https://github-profile-trophy.vercel.app/?username=spatlyu" style="width: 100%;"/>
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=SpatLyu" style="width: 100%;"/>
 </td>
 </tr>
 </table>

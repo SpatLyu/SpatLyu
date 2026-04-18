@@ -121,13 +121,13 @@ src="./logos/sptorch.png"               width="50px"/></a>
   tools**, with a primary focus on *R packages*.
 - 🔬 Currently, my work centers on **Empirical Dynamic Modeling (EDM)**
   framework for modeling *dynamic system*, **information theory** for
-  quantifying *information flow* and *causal interdependence*,
-  **ordinary differential equations (ODEs)** for characterizing
-  *spatiotemporal processes* and *system evolution*, as well as
-  **counterfactual** and **potential outcomes** framework for estimating
-  *causal effects*. I aim to integrate these approaches to better
-  understand and address complex challenges in *urban sustainability*,
-  *climate change mitigation*, and broader global issues.
+  quantifying *information flow* and *variable interactions*, **ordinary
+  differential equations (ODEs)** for characterizing *spatiotemporal
+  processes* and *system evolution*, as well as **counterfactual** and
+  **potential outcomes** framework for estimating *causal effects*. I
+  aim to integrate these approaches to better understand and address
+  complex challenges in *urban sustainability*, *climate change
+  mitigation*, and broader global issues.
 - 😄 I look forward to working with friends of all backgrounds to
   explore the fun of **statistics** and **programming**!
 - 📫 How to reach me: message me at

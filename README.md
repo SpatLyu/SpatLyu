@@ -88,12 +88,13 @@ src="./logos/geocomplexity.png"         width="50px"/></a>
 src="./logos/cisp.png"                  width="50px"/></a>
 <a href="https://github.com/stscl/sesp"            ><img 
 src="./logos/sesp.png"                  width="50px"/></a>
-<a href="https://github.com/stscl/itmsa"           ><img 
-src="./logos/itmsa.png"                 width="50px"/></a>
-<a href="https://github.com/stscl/gdverse"         ><img 
-src="./logos/gdverse.png"               width="50px"/></a>
+
 <a href="https://github.com/stscl/sdsfun"          ><img 
 src="./logos/sdsfun.png"                width="50px"/></a>
+<a href="https://github.com/stscl/gdverse"         ><img 
+src="./logos/gdverse.png"               width="50px"/></a>
+<a href="https://github.com/stscl/pc"              ><img 
+src="./logos/pc.png"                    width="50px"/></a>
 <a href="https://github.com/stscl/spEDM"           ><img 
 src="./logos/spEDM.png"                 width="50px"/></a>
 <a href="https://github.com/stscl/tEDM"            ><img 
@@ -108,8 +109,8 @@ src="./logos/tidyrgeoda.png"            width="50px"/></a>
 src="./logos/arcR.png"                  width="50px"/></a>
 <a href="https://github.com/SpatLyu/spEcula"       ><img 
 src="./logos/spEcula.png"               width="50px"/></a>
-<a href="https://github.com/stscl/sptorch"         ><img 
-src="./logos/sptorch.png"               width="50px"/></a>
+<a href="https://github.com/stscl/itmsa"           ><img 
+src="./logos/itmsa.png"                 width="50px"/></a>
 </p>
 
 ### 🧐 About

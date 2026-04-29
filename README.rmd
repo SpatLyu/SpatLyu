@@ -93,8 +93,8 @@ src="./logos/infoxtr.png"               width="50px"/></a>
 src="./logos/geocn.png"                 width="50px"/></a>
   <a href="https://github.com/SpatLyu/tidyrgeoda"    ><img 
 src="./logos/tidyrgeoda.png"            width="50px"/></a>
-  <a href="https://github.com/stscl/arcR"            ><img
-src="./logos/arcR.png"                  width="50px"/></a>
+  <a href="https://github.com/stscl/infocausality"   ><img
+src="./logos/infocausality.png"         width="50px"/></a>
   <a href="https://github.com/SpatLyu/spEcula"       ><img 
 src="./logos/spEcula.png"               width="50px"/></a>
   <a href="https://github.com/stscl/itmsa"           ><img 

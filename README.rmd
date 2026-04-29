@@ -82,7 +82,7 @@ src="./logos/sdsfun.png"                width="50px"/></a>
   <a href="https://github.com/stscl/gdverse"         ><img 
 src="./logos/gdverse.png"               width="50px"/></a>
   <a href="https://github.com/stscl/pc"              ><img 
-src="./logos/pc.png"                    width="56px"/></a>
+src="./logos/pc.png"                    width="50px"/></a>
   <a href="https://github.com/stscl/spEDM"           ><img 
 src="./logos/spEDM.png"                 width="50px"/></a>
   <a href="https://github.com/stscl/tEDM"            ><img 

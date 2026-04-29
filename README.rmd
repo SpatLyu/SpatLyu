@@ -77,13 +77,12 @@ src="./logos/geocomplexity.png"         width="50px"/></a>
 src="./logos/cisp.png"                  width="50px"/></a>
   <a href="https://github.com/stscl/sesp"            ><img 
 src="./logos/sesp.png"                  width="50px"/></a>
-
   <a href="https://github.com/stscl/sdsfun"          ><img 
 src="./logos/sdsfun.png"                width="50px"/></a>
   <a href="https://github.com/stscl/gdverse"         ><img 
 src="./logos/gdverse.png"               width="50px"/></a>
   <a href="https://github.com/stscl/pc"              ><img 
-src="./logos/pc.png"                    width="50px"/></a>
+src="./logos/pc.png"                    width="56px"/></a>
   <a href="https://github.com/stscl/spEDM"           ><img 
 src="./logos/spEDM.png"                 width="50px"/></a>
   <a href="https://github.com/stscl/tEDM"            ><img 

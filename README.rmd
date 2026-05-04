@@ -60,10 +60,10 @@ src="./logos/tmap.png"                  width="50px"/></a>
 src="./logos/qgisprocess.png"           width="50px"/></a>
   <a href="https://github.com/Rdatatable/data.table/"><img 
 src="./logos/data.table.png"            width="50px"/></a>
-<!--   <a href="https://github.com/r-lib/rlang"           ><img  -->
+<!--   <a href="https://github.com/r-lib/rlang"           ><img -->
 <!-- src="./logos/rlang.png"                 width="50px"/></a> -->
-<!-- <!--   <a href="https://github.com/r-lib/vctrs"           ><img  --> -->
-<!-- <!-- src="./logos/vctrs.png"                 width="50px"/></a> --> -->
+<!--   <a href="https://github.com/r-lib/vctrs"           ><img -->
+<!-- src="./logos/vctrs.png"                 width="50px"/></a> -->
 </p>
 
 I authored and maintain these R packages:
@@ -75,8 +75,6 @@ src="./logos/gd.png"                    width="50px"/></a>
 src="./logos/geocomplexity.png"         width="50px"/></a>
   <a href="https://github.com/stscl/cisp"            ><img 
 src="./logos/cisp.png"                  width="50px"/></a>
-<!--   <a href="https://github.com/stscl/sesp"            ><img  -->
-<!-- src="./logos/sesp.png"                  width="50px"/></a> -->
   <a href="https://github.com/stscl/sdsfun"          ><img 
 src="./logos/sdsfun.png"                width="50px"/></a>
   <a href="https://github.com/stscl/gdverse"         ><img 
@@ -99,6 +97,8 @@ src="./logos/spEcula.png"               width="50px"/></a>
 src="./logos/infocausality.png"         width="50px"/></a>
   <a href="https://github.com/stscl/itmsa"           ><img 
 src="./logos/itmsa.png"                 width="50px"/></a>
+<!--   <a href="https://github.com/stscl/sesp"            ><img -->
+<!-- src="./logos/sesp.png"                  width="50px"/></a> -->
 </p>
   
 ### 🧐 About

@@ -84,10 +84,10 @@ I authored and maintain these R packages:
 src="./logos/gd.png"                    width="50px"/></a>
 <a href="https://github.com/ausgis/geocomplexity"  ><img 
 src="./logos/geocomplexity.png"         width="50px"/></a>
-<a href="https://github.com/stscl/cisp"            ><img 
-src="./logos/cisp.png"                  width="50px"/></a>
 <a href="https://github.com/stscl/sdsfun"          ><img 
 src="./logos/sdsfun.png"                width="50px"/></a>
+<a href="https://github.com/stscl/coupling"        ><img 
+src="./logos/coupling.png"              width="50px"/></a>
 <a href="https://github.com/stscl/gdverse"         ><img 
 src="./logos/gdverse.png"               width="50px"/></a>
 <a href="https://github.com/stscl/pc"              ><img 

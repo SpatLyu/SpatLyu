@@ -6,7 +6,7 @@ Hi there👋, I’m Wenbo Lyu (吕文博) 🌌
 [![GitHub
 followers](https://img.shields.io/github/followers/SpatLyu?label=Follow&style=social)](https://github.com/SpatLyu/?tab=follow)
 [![ZhiHu
-Badge](https://img.shields.io/badge/1316-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
+Badge](https://img.shields.io/badge/1317-blue?logo=zhihu&logoColor=blue&label=Follower&labelColor=white&color=blue)](https://www.zhihu.com/people/lyu-geosocial)
 [![](https://img.shields.io/badge/buy%20me%20a-Coffee-purple.svg)](https://spatlyu.github.io/posts/posts-picture/alipay.jpg)
 [![Gmail
 Badge](https://img.shields.io/badge/-lyu.geosocial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyu.geosocial@gmail.com)](mailto:lyu.geosocial@gmail.com)
@@ -106,15 +106,15 @@ src="./logos/itmsa.png"                 width="50px"/></a>
 - 🏄 My research interests lie in **advancing methodologies in spatial
   causal inference** and **developing high-performance computational
   tools**, with a primary focus on *R packages*.
-- 🔬 Currently, my work centers on **Empirical Dynamic Modeling (EDM)**
-  framework for modeling *dynamic system*, **information theory** for
-  quantifying *information flow* and *variable interactions*, **ordinary
-  differential equations (ODEs)** for characterizing *spatiotemporal
-  processes* and *system evolution*, as well as **counterfactual** and
-  **potential outcomes** framework for estimating *causal effects*. I
-  aim to integrate these approaches to better understand and address
-  complex challenges in *urban sustainability*, *climate change
-  mitigation*, and broader global issues.
+- 🔬 Currently, my work centers on **information theory** for
+  quantifying *information flow* and *variable interactions*,
+  **statistical physics methods** for characterizing *spatiotemporal
+  processes*, **dynamical systems theory** for detecting *dynamic
+  causality*, as well as **virtual intervention computation** for
+  inferring *interventional causality*. I aim to integrate these
+  approaches to better understand and address complex challenges in
+  *urban sustainability*, *climate change mitigation*, and broader
+  global issues.
 - 😄 I look forward to working with friends of all backgrounds to
   explore the fun of **statistics** and **programming**!
 - 📫 How to reach me: message me at
